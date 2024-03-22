@@ -1,0 +1,22 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\Student\Desktop\SOVA eMILIAN\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(40,59): error C2065: 'i': undeclared identifier
+  (compiling source file '/ConsoleApplication3.cpp')
+  
+C:\Users\Student\Desktop\SOVA eMILIAN\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(43,58): error C2065: 'i': undeclared identifier
+  (compiling source file '/ConsoleApplication3.cpp')
+  
+C:\Users\Student\Desktop\SOVA eMILIAN\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(46,20): error C2065: 'i': undeclared identifier
+  (compiling source file '/ConsoleApplication3.cpp')
+  
+C:\Users\Student\Desktop\SOVA eMILIAN\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(47,59): error C2065: 'i': undeclared identifier
+  (compiling source file '/ConsoleApplication3.cpp')
+  
+C:\Users\Student\Desktop\SOVA eMILIAN\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(50,3): error C2146: syntax error: missing ';' before identifier 'persoane'
+  (compiling source file '/ConsoleApplication3.cpp')
+  
+C:\Users\Student\Desktop\SOVA eMILIAN\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(50,12): error C2065: 'i': undeclared identifier
+  (compiling source file '/ConsoleApplication3.cpp')
+  
+C:\Users\Student\Desktop\SOVA eMILIAN\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(53,38): error C2143: syntax error: missing ';' before ')'
+  (compiling source file '/ConsoleApplication3.cpp')
+  
